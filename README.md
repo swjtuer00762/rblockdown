@@ -1,2 +1,2 @@
-# rblockdown
-Learn R package blockdown
+# rblogdown
+Learn R package blogdown
